@@ -1,0 +1,12 @@
+{
+    "token": "OTQ5MTY0NjEzNDAzMDI5NTE0.YiGYbg.opULl8x2CQ6y_t4TNy6QdKZvcL8",
+      "channel": "970619009689059379",
+    "nodes": [
+      {
+        "host": "frnode.omegahost.xyz",
+        "password": "zendev",
+        "port": 5002
+      }
+  
+    ]
+  }
